@@ -64,27 +64,6 @@ Web-based boarding house management platform built to connect **property owners 
 🔗 [View Repository](https://github.com/RafiRhnnn/UtbKosWeb)
 
 ---
-
-### 🧠 Sentiment Analysis
-
-A web-based sentiment analysis project using **IndoBERT** to analyze public opinions from platform X.
-
-**Tech:** Python • IndoBERT • NLP • Dashboard
-
-🔗 [View GitHub](https://github.com/RafiRhnnn)
-
----
-
-### 🎵 Audio Conversion Web App
-
-A web application designed to process audio files with different playback speeds and conversion options.
-
-**Tech:** Laravel • MySQL • FFmpeg • JavaScript
-
-🔗 [View GitHub](https://github.com/RafiRhnnn)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,9 +98,6 @@ A web application designed to process audio files with different playback speeds
 <p align="left">
   <a href="https://github.com/RafiRhnnn">
     <img src="https://img.shields.io/badge/GitHub-RafiRhnnn-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
