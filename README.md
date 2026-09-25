@@ -63,16 +63,9 @@ Web-based boarding house management platform built to connect **property owners 
 
 🔗 [View Repository](https://github.com/RafiRhnnn/UtbKosWeb)
 
----
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafiRhnnn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiRhnnn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RafiRhnnn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiRhnnn&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 ## 🔥 Contribution
 
 <p align="center">
